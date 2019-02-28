@@ -1,0 +1,131 @@
+data = {
+      "colors": [
+            {
+                  "color": "black",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#000"
+                  }
+            },
+            {
+                  "color": "silver",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#C0C0C0"
+                  }
+            },
+            {
+                  "color": "gray",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#808080"
+                  }
+            },
+            {
+                  "color": "white",
+                  "category": "value",
+                  "code": {
+                        "hex": "#FFFFFF"
+                  }
+            },
+            {
+                  "color": "maroon",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#800000"
+                  }
+            },
+            {
+                  "color": "red",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#FF0000"
+                  }
+            },
+            {
+                  "color": "purple",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#800080"
+                  }
+            },
+            {
+                  "color": "fuchsia",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#FF00FF"
+                  }
+            },
+            {
+                  "color": "green",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#008000"
+                  }
+            },
+            {
+                  "color": "lime",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#00FF00"
+                  }
+            },
+            {
+                  "color": "olive",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#808000"
+                  }
+            },
+            {
+                  "color": "yellow",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#FFFF00"
+                  }
+            },
+            {
+                  "color": "navy",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#000080"
+                  }
+            },
+            {
+                  "color": "blue",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#0000FF"
+                  }
+            },
+            {
+                  "color": "teal",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#008080"
+                  }
+            },
+            {
+                  "color": "aqua",
+                  "category": "hue",
+                  "type": "primary",
+                  "code": {
+                        "hex": "#00FFFF"
+                  }
+            }
+      ]
+};
